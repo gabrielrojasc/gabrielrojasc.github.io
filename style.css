@@ -51,18 +51,15 @@ body {
     margin: 200px 22.5%;
     width: 55%;
     font-family: Helvetica, Arial, sans-serif;
-    padding: 3px;
 }
 
 #img{
     float: left;
     padding: 10px;
-    padding-right: 0px;
 }
 
 #who {
     float: right;
-    padding-left: 0px;
     padding: 5px;
     padding-top: 0px;
 }
@@ -74,5 +71,5 @@ body {
 }
 
 #estudios{
-    color: gray;
+    color: darkslategray;
 }
