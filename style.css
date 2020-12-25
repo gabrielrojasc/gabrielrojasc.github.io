@@ -27,7 +27,7 @@ body {
     text-decoration: none;
 }
 
-.navbar p {
+#title {
     float: left;
     display: block;
     color: white;
@@ -44,11 +44,26 @@ body {
     color: black;
 }
 
+#title:hover{
+    background-color: #353a40 !important;
+    color: white !important;
+}
+
+.aboutme, .contact{
+    display: inline-block;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10% 22.5%;
+    width: 55%;
+    padding: 15px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
 .main {
     display: inline-block;
     background-color: white;
     border-radius: 5px;
-    margin: 200px 22.5%;
+    margin: 10% 22.5%;
     width: 55%;
     font-family: Helvetica, Arial, sans-serif;
 }
