@@ -68,6 +68,11 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.links{
+    display: inline-block;
+    padding: 5px;
+}
+
 #img{
     float: left;
     padding: 10px;
@@ -77,6 +82,7 @@ body {
     float: right;
     padding: 5px;
     padding-top: 0px;
+    margin-bottom: 130px;
 }
 
 #name{
